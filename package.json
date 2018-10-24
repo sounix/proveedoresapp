@@ -1,0 +1,23 @@
+{
+  "name": "proveedoresapp",
+  "version": "1.0.0",
+  "description": "Registro de Proveedores Nuevos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sounix/proveedoresapp.git"
+  },
+  "author": "Aldrin Gonzalez Cancino <sounix@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sounix/proveedoresapp/issues"
+  },
+  "homepage": "https://github.com/sounix/proveedoresapp#readme",
+  "dependencies": {
+    "sequelize": "^4.41.0",
+    "tedious": "^2.6.4"
+  }
+}
